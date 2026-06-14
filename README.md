@@ -41,7 +41,7 @@ A TODO application built with **Django** and **Django REST Framework**, includin
 ```bash
 git clone https://github.com/alit83/TODO_Django_REST_Framework.git
 cd TODO_Django_REST_Framework
-docker-compose up --build
+docker compose up --build
 ```
 
 The application will be available at `http://localhost:3000` (adjust according to your `docker-compose.yml` configuration).
